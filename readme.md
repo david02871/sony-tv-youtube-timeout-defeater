@@ -1,9 +1,10 @@
 # Sony TV YouTube Timeout Defeater
 
-One Paragraph of project description goes here
+Automates the d-pad center button every 20 seconds to continue playing youtube.
 
 ## Installing
 
+Run in the project directory:
 ```
 npm install -g
 ```
@@ -18,6 +19,12 @@ youtube-timeout-defeater --host=192.168.19.61
 * host - TV IP address (internal)
 * port - Defaults to 80
 * authkey - TV pre-shared key (defaults to '0000')
+
+### Pre-shared key
+Enable the following settings on a Sony Bravia TV to allow control over IP
+
+1. Settings->Network->Home Network Setup->Remote Start→On
+2. Settings->Network->Home Network Setup->IP Control->Authentication->Normal and Pre-Shared Key
 
 ## License
 
