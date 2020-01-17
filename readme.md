@@ -23,8 +23,8 @@ youtube-timeout-defeater --host=192.168.19.61
 ### Pre-shared key
 Enable the following settings on a Sony Bravia TV to allow control over IP
 
-1. Settings->Network->Home Network Setup->Remote Start→On
-2. Settings->Network->Home Network Setup->IP Control->Authentication->Normal and Pre-Shared Key
+1. Settings->Network->Home Network Setup->IP Control->Authentication->Normal and Pre-Shared Key
+2. Settings->Network->Home Network Setup->IP Control->Pre-Shared Key
 
 ## License
 
